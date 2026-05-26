@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdender",
+        "uuid": 5110200,
+        "checksum": "3pe4ka"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
